@@ -1,2 +1,2 @@
-# restvoMacOS
-Restvo Desktop App for Mac
+# restvoApp
+Restvo Desktop App for Mac and Windows
